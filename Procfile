@@ -1,0 +1,1 @@
+web: gunicorn adsterra_script:app --log-file=-
